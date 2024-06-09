@@ -6,7 +6,7 @@ An LCD display provides a menu, and the potentiometer allows the user to select 
 
 The available tasks are:
 
--Rotate LED
--Shift LED
--Blink LED
--Swap LED
+- Rotate LED
+- Shift LED
+- Blink LED
+- Swap LED
